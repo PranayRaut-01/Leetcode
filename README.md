@@ -1,4 +1,7 @@
-# Leetcode
+# Leetcode Problem 98 Validate Binary Search Tree
+
+Solution:-
+
 
 /**
  * Definition for a binary tree node.
